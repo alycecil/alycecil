@@ -1,7 +1,5 @@
 <img align="right" src="mee.gif" width="20%">
 
-<p alight="left">
-  
 My name is `Alice` 
 
 My Pronouns are: `she/her` or `it/its`
@@ -10,9 +8,9 @@ I like game modding and making bots.
 
 I look something like the gif to the right.
 
-</p>
+Because Web1 was funny:
 
-<br><br><br><br><br><br><br><br><br>
+<img src="https://komarev.com/ghpvc/?username=alycecil&label=Profile%20views&color=0e75b6&style=flat" alt="alycecil" />
 
 <p align="center">Languages and Tools I Like:</h3>
 <p align="center"> 
@@ -60,8 +58,3 @@ I look something like the gif to the right.
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
-
-
-<p align="center">Because Web1 was funny:</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alycecil&label=Profile%20views&color=0e75b6&style=flat" alt="alycecil" /> </p>
-
