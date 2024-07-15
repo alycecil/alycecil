@@ -2,7 +2,7 @@
 
 My name is `Alice` 
 
-My Pronouns are: `she/her` or `it/its`
+My Pronouns are: `it/its`or if you only believe in binary gender and are a coward `she/her`
 
 I like game modding and making bots.
 
