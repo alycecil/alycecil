@@ -2,7 +2,11 @@
 
 My name is `Alice` 
 
-My Pronouns are: `it/its`or if you only believe in binary gender and are a coward `she/her`
+My Pronouns are: `it/its`
+
+I dont use github so much any more since the anouncement of <a href="https://sfconservancy.org/GiveUpGitHub/">Co-Pilot. It is a closed sourced abuse of all of us.</a> 
+
+You can find me on <a href="https://git.gay/a11c3">Git.Gay https://git.gay/a11c3</a>
 
 I like game modding and making bots.
 
